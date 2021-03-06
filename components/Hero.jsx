@@ -6,18 +6,18 @@ const Hero = () =>{
         <div className="top bg-gray-50" id='home' >
             <div className="main">
                 <div className="content" id='title'>
-                    <div className='hero space-y-2' id='hero'>
+                    <div className='hero space-y-3' id='hero'>
                         <h1 className='font-black text-gray-50' id='tit'>
                             Mandelbrot.network
                         </h1>
-                        <h2 className='font-black text-gray-100' id='tit'>
-                            Lorem ipsum lorem
+                        <h2 className='font-black text-gray-200' id='tit'>
+                            DAPP DEPORTIVA
                         </h2>
                         <h3 className='text-gray-400'>
-                            Lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+                            El futuro de la organizacion de eventos deportivos
                         </h3>
                         <a href="#about" className='font-medium'>
-                            Learn more
+                            información
                         </a>
                     </div>
                 </div>

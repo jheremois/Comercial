@@ -58,12 +58,12 @@ const Header = ()=>{
                     </div>
                 </div>
                 <div id="options">
-                    <a href="#home" className='opti' id='active' onClick={()=> active(0)}>Home</a>
-                    <a href="#about" className='opti' onClick={()=> active(1)}>About</a>
-                    <a href="#services" className='opti' onClick={()=> active(3)}>Services</a>
+                    <a href="#home" className='opti' id='active' onClick={()=> active(0)}>Inicio</a>
+                    <a href="#about" className='opti' onClick={()=> active(1)}>Nosotros</a>
+                    <a href="#services" className='opti' onClick={()=> active(3)}>Servicios</a>
                     <a href="#roadmap" className='opti' onClick={()=> active(2)}>Roadmap</a>
-                    <a href="#team" className='opti' onClick={()=> active(4)}>Team</a>
-                    <a href="#contact" className='opti' onClick={()=> active(5)}>Contact</a>
+                    <a href="#team" className='opti' onClick={()=> active(4)}>Equipo</a>
+                    <a href="#contact" className='opti' onClick={()=> active(5)}>Contacto</a>
                 </div>
             </nav>
 
