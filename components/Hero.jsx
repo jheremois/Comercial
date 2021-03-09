@@ -11,7 +11,7 @@ const Hero = () =>{
                             Mandelbrot.network
                         </h1>
                         <h2 className='font-black text-gray-200' id='tit'>
-                            DAPP DEPORTIVA
+                            Dapp deportiva
                         </h2>
                         <h3 className='text-gray-400'>
                             El futuro de la organizacion de eventos deportivos

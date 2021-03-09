@@ -37,7 +37,7 @@ const Services = () =>{
 							<div id="service">
 									<div className="inside">
 											<h1>〉</h1>
-											<h2>Espacio de Ventas</h2>
+											<h2>Punto de Ventas</h2>
 											<p>Transmitele a tus usuarios y posibles compradores la seguridad de que sus datos no seran alterados y que ellos tienen el control de sus datos</p>
 									</div>
 							</div>
@@ -57,17 +57,58 @@ const Services = () =>{
 							</div>
 					</div>
 			</span>
+			<span>
+					<div className="services">
+							<div id="service">
+									<div className="inside">
+											<h1>〉</h1>
+											<h2>Ticket sistem</h2>
+											<p>Transmitele a tus usuarios y posibles compradores la seguridad de que sus datos no seran alterados y que ellos tienen el control de sus datos</p>
+									</div>
+							</div>
+							<div id="service">
+									<div className="inside">
+											<h1>〉</h1>
+											<h2>Ticket master</h2>
+											<p>Transmitele a tus usuarios y posibles compradores la seguridad de que sus datos no seran alterados y que ellos tienen el control de sus datos</p>
+									</div>
+							</div>
+							<div id="service">
+									<div className="inside">
+											<h1>〉</h1>
+											<h2>Infraestructura de datos</h2>
+											<p>Transmitele a tus usuarios y posibles compradores la seguridad de que sus datos no seran alterados y que ellos tienen el control de sus datos</p>
+									</div>
+							</div>
+					</div>
+			</span>
+			<span>
+					<div className="servicesc">
+							<div id="service">
+									<div className="inside">
+											<h1>〉</h1>
+											<h2>Sistema de apuestas</h2>
+											<p>Transmitele a tus usuarios y posibles compradores la seguridad de que sus datos no seran alterados y que ellos tienen el control de sus datos</p>
+									</div>
+							</div>
+					</div>
+			</span>
 			<style jsx>{`
 					#services{
 							background-color: #F4F2FF;
 							padding: 130px 0px;
 					}
-					#services .services{
+					.services{
 							display: flex;
 							justify-content: space-between;
 							padding: 40px 75px;
 					}
-					#services .services #service{
+					.servicesc{
+						display: flex;
+						justify-content: center;
+						padding: 40px 75px;
+				}
+					#service{
 							background-position: center;
 							background-repeat: no-repeat;
 							background-size: cover;
@@ -79,18 +120,18 @@ const Services = () =>{
 							border-radius: 0.5vw;
 							width: 30%;
 					}
-					#services .services #service .inside{
+					.inside{
 							transition-duration: 800ms;
 							padding-top: 230px;
 					}
-					#services .services .sis{
+					.sis{
 						background-image: url('/mandelbrot.jpg');
 					}
-					#services .services .cont{
+					.cont{
 						background-image: url('/contratointe.jpg');
 					}
-					#services .services #service .inside:hover{ padding: 0px;}
-					#services .services #service .inside h1{
+					.inside:hover{ padding: 0px;}
+					.inside h1{
 							font-family: Arial, Helvetica, sans-serif;
 							color: #c0c0c073;
 							transform: rotate(-90deg);
@@ -113,14 +154,14 @@ const Services = () =>{
 
 							}
 					}
-					#services .services #service .inside h2{
+					.inside h2{
 							align-items: center;
 							justify-content: center;
 							display: flex;
 							height: 50px;
 							background-color: #5037ac;
 					}
-					#services .services #service .inside p{
+					.inside p{
 							font-size: 17px;
 							padding: 20px 10px;
 							height: 240px;
@@ -132,11 +173,11 @@ const Services = () =>{
 							#services{
 									padding: 90px 0px;
 							}
-							#services .services{ 
+							.services, .servicesc{ 
 									display: block;
 									padding: 00px 40px;
 							}
-							#services .services #service{
+							#service{
 									border-radius: 10px;
 									width: 100%;
 									margin: 40px 0px;

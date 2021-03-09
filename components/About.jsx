@@ -10,7 +10,7 @@ const About = () =>{
                 <span className="block text-indigo-600 xl:inline text-4xl"> nosotros</span>
             </h1>
             <p className="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">
-            La misión de Mandelbrot.network es facilitar la creación de Dapps de torneos, ahorrándoles tiempo y mejorando su trabajo. Está especializado en organizaciones deportivas y tiene como objetivo ayudar a organizaciones públicas y privadas a organizar eventos con el poder del mandelbrot!
+            Mandelbrot.network es la solución para la seguridad y administración de cualquier organización deportiva aportando la facilidad del control financiero y de la administración y almacenamiento de sus datos con total transparencia. Facilitamos la creación de Dapps especializadas en deportes y aportar las ventajas de un sistema de datos descentralizado y seguro usando la blockchain
             </p>
             </div>
         </div>

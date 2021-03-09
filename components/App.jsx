@@ -4,6 +4,8 @@ import Hero from './Hero.jsx'
 import About from './About.jsx'
 import Services from './Services.jsx'
 import RoadMap from  './RoadMap.jsx'
+import Ecosis from  './Ecosis.jsx'
+import Inversionistas from './Inversionistas.jsx'
 import Team from './Team.jsx'
 import Contact from './Contact.jsx'
 function App() {
@@ -56,6 +58,8 @@ function App() {
       <About/>
       <Services/>
       <RoadMap/>
+      <Inversionistas/>
+      <Ecosis/>
       <Team/>
       <Contact/>
       <style jsx global>{`

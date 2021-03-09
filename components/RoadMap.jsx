@@ -9,7 +9,7 @@ const RoadMap = ()=>{
           Mandelbrot.network roadmap
         </p>
         <p className="mt-5 max-w-prose mx-auto text-xl text-gray-500">
-          Phasellus lorem quam molestie id quisque diam aenean nulla in. Accumsan in quis quis nunc, ullamcorper malesuada. Eleifend condimentum id viverra nulla.
+          
         </p>
         <div className="mt-12">
           <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
@@ -24,9 +24,11 @@ const RoadMap = ()=>{
                       </h1>
                     </span>
                   </div>
-                  <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight">Push to Deploy</h3>
+                  <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight">
+                    Enero 2020
+                  </h3>
                   <p className="mt-5 text-base text-gray-500">
-                    Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.
+                    El desarrollo de la blockchain Zhe World comienza 
                   </p>
                 </div>
               </div>
@@ -42,9 +44,9 @@ const RoadMap = ()=>{
                       </h1>
                     </span>
                   </div>
-                  <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight">SSL Certificates</h3>
+                  <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight">Enero 2021</h3>
                   <p className="mt-5 text-base text-gray-500">
-                    Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.
+                    creación del equipo y primera face de desarrollo
                   </p>
                 </div>
               </div>
