@@ -62,6 +62,8 @@ const Header = ()=>{
                     <a href="#about" className='opti' onClick={()=> active(1)}>Nosotros</a>
                     <a href="#services" className='opti' onClick={()=> active(3)}>Servicios</a>
                     <a href="#roadmap" className='opti' onClick={()=> active(2)}>Roadmap</a>
+                    <a href="#inversores" className='opti' onClick={()=> active(4)}>Inversores</a>
+                    <a href="#ecosistema" className='opti' onClick={()=> active(4)}>Ecosistema</a>
                     <a href="#team" className='opti' onClick={()=> active(4)}>Equipo</a>
                     <a href="#contact" className='opti' onClick={()=> active(5)}>Contacto</a>
                 </div>
@@ -99,7 +101,7 @@ const Header = ()=>{
                 }
                 header nav #options .opti{
                     text-decoration: none;
-                    margin: 0px 3px;
+                    margin: 0px 6px;
                     font-weight: 550;
                     font-size: 15px;
                     padding: 5px 9px;

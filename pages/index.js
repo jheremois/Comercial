@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div id='body'>
       <Head>
-        <meta charset="utf-8" />
+        <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#5037ac" />
         <meta name="Mandelbrot.network" content="Website oficial Mandelbrot.network"/>

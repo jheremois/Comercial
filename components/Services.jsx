@@ -9,14 +9,14 @@ const Services = () =>{
 			</h1>
 			<span>
 					<div className="services">
-							<div id="service" className='sis'>
+							<div id="service" /*className='sis'*/>
 									<div className="inside">
 											<h1>〉</h1>
 											<h2>Sistemas desentralizados</h2>
 											<p>Facilidad de transacciones de datos, inmutable y y seguro. Cada sistema puede ser una cadena de substrate y conectar con otros sistemas a travez de la cadena principal de polkadot</p>
 									</div>
 							</div>
-					<div id="service" className='cont'>
+					<div id="service" /*className='cont'*/>
 							<div className="inside">
 									<h1>〉</h1>
 									<h2>Contratos inteligentes</h2>
@@ -88,7 +88,7 @@ const Services = () =>{
 									<div className="inside">
 											<h1>〉</h1>
 											<h2>Sistema de apuestas</h2>
-											<p>Transmitele a tus usuarios y posibles compradores la seguridad de que sus datos no seran alterados y que ellos tienen el control de sus datos</p>
+											<p>Mejora la experiencia de los usuarios y les da la oportunidad de ser recompensados apoyando a sus equipos deportivos favoritos</p>
 									</div>
 							</div>
 					</div>
