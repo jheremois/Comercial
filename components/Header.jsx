@@ -40,10 +40,10 @@ const Header = ()=>{
                     <a href="/" className='font-medium text-xl'>
                         <img src="/LOGO.svg" alt="Logo"/>
                         <h1 className='tit1'>
-                            Mandelbrot
+                            Web
                         </h1>
                         <h1 className='tit2'>
-                            .network
+                            site
                         </h1>
                     </a>
                 </div>

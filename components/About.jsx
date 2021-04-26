@@ -10,13 +10,13 @@ const About = () =>{
                 <span className="block text-indigo-600 xl:inline text-4xl"> nosotros</span>
             </h1>
             <p className="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">
-            Mandelbrot.network es la solución para la seguridad y administración de cualquier organización deportiva aportando la facilidad del control financiero y de la administración y almacenamiento de sus datos con total transparencia. Facilitamos la creación de Dapps especializadas en deportes y aportar las ventajas de un sistema de datos descentralizado y seguro usando la blockchain
+            website es la solución para la seguridad y administración de cualquier organización deportiva aportando la facilidad del control financiero y de la administración y almacenamiento de sus datos con total transparencia. Facilitamos la creación de Dapps especializadas en deportes y aportar las ventajas de un sistema de datos descentralizado y seguro usando la blockchain
             </p>
             </div>
         </div>
         <div className="relative w-full h-64 sm:h-72 md:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full">
             <div className="image">
-                <img src="/about_mandelbrot.svg" alt="" className='gg'/>
+                <img src="/about_website.svg" alt="An err" className='gg'/>
                 <img src="/hole.svg" alt="" className='hole'/>
             </div>
         </div>

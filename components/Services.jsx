@@ -125,7 +125,7 @@ const Services = () =>{
 							padding-top: 230px;
 					}
 					.sis{
-						background-image: url('/mandelbrot.jpg');
+						background-image: url('/website.jpg');
 					}
 					.cont{
 						background-image: url('/contratointe.jpg');

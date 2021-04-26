@@ -8,10 +8,10 @@ const Hero = () =>{
                 <div className="content" id='title'>
                     <div className='hero space-y-3' id='hero'>
                         <h1 className='font-black text-gray-50' id='tit'>
-                            Mandelbrot.network
+                            Webiste
                         </h1>
                         <h2 className='font-black text-gray-200' id='tit'>
-                            Dapp deportiva
+                            Solo un website
                         </h2>
                         <h3 className='text-gray-400'>
                             El futuro de la organizacion de eventos deportivos

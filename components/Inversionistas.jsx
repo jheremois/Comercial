@@ -16,7 +16,7 @@ const Inversionistas = ()=>{
 									<img className="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24" src="/zheworld.png" alt />
 									<div className="space-y-2">
 										<div className="text-sm font-medium lg:text-sm">
-											<p className="text-indigo-600 text-lg">Zhe World</p>
+											<p className="text-indigo-600 text-lg">Website</p>
 										</div>
 									</div>
 								</div>
@@ -26,7 +26,7 @@ const Inversionistas = ()=>{
 									<img className="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24" src="/zheworld.png" alt />
 									<div className="space-y-2">
 										<div className="text-sm font-medium lg:text-sm">
-											<p className="text-indigo-600 text-lg">Zhe World</p>
+											<p className="text-indigo-600 text-lg">Website</p>
 										</div>
 									</div>
 								</div>
@@ -36,7 +36,7 @@ const Inversionistas = ()=>{
 									<img className="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24" src="/zheworld.png" alt />
 									<div className="space-y-2">
 										<div className="text-sm font-medium lg:text-sm">
-											<p className="text-indigo-600 text-lg">Zhe World</p>
+											<p className="text-indigo-600 text-lg">Website</p>
 										</div>
 									</div>
 								</div>
@@ -46,7 +46,7 @@ const Inversionistas = ()=>{
 									<img className="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24" src="/zheworld.png" alt />
 									<div className="space-y-2">
 										<div className="text-sm font-medium lg:text-sm">
-											<p className="text-indigo-600 text-lg">Zhe World</p>
+											<p className="text-indigo-600 text-lg">Website</p>
 										</div>
 									</div>
 								</div>
@@ -56,7 +56,7 @@ const Inversionistas = ()=>{
 									<img className="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24" src="/zheworld.png" alt />
 									<div className="space-y-2">
 										<div className="text-sm font-medium lg:text-sm">
-											<p className="text-indigo-600 text-lg">Zhe World</p>
+											<p className="text-indigo-600 text-lg">Website</p>
 										</div>
 									</div>
 								</div>
@@ -66,7 +66,7 @@ const Inversionistas = ()=>{
 									<img className="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24" src="/zheworld.png" alt />
 									<div className="space-y-2">
 										<div className="text-sm font-medium lg:text-sm">
-											<p className="text-indigo-600 text-lg">Zhe World</p>
+											<p className="text-indigo-600 text-lg">Website</p>
 										</div>
 									</div>
 								</div>
